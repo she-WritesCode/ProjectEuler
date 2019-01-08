@@ -10,6 +10,4 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 # Why I'm doing this 
 I decided to improve my codings skills and learn to perform tasks without dependencies/frameworks
 
-# Problems Solved So far
-1. **[Problem 1 - Multiples of 3 and 5](https://github.com/she-WritesCode/ProjectEuler/Problem1.html):**
-If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
+[View Code](https://she-writescode.github.io/ProjectEuler/)
